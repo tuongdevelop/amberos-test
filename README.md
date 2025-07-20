@@ -36,7 +36,7 @@ This is the easiest and most reliable way to get the entire system running, as i
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/tuongdevelop/amberos-test.git
     cd amberos-test
     ```
 
